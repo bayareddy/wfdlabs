@@ -64,7 +64,7 @@
 		<!-- <dependency> <groupId>org.springframework</groupId> <artifactId>spring-orm</artifactId> 
 			<version>${spring.framework.version}</version> </dependency> <dependency> 
 			<groupId>org.hibernate</groupId> <artifactId>hibernate-entitymanager</artifactId> 
-			<version>3.6.0.Final</version> </dependency> -->
+ 			<version>3.6.0.Final</version> </dependency> -->
 
 		<!-- Dependencies for SQLite -->
 		<dependency>
